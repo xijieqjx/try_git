@@ -5,11 +5,4 @@
 *.orig
 .DS_Store
 .idea/
-target/ *.ipr
-*.ids
-*.iws
-*.iml
-*.orig
-.DS_Store
-.idea/
 target/
